@@ -1,0 +1,18 @@
+.container {
+    display: flex;             
+    justify-content: center;         
+}
+
+body{
+    background-color: orange;
+}
+
+h1 {
+    margin-top: 20px;      
+    margin-bottom: 20px;
+    text-align: center;       
+}
+
+.AISHA2MESES {
+    height: 50%;
+}
